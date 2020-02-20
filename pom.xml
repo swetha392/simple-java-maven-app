@@ -45,8 +45,8 @@
   </build>
  <distributionManagement>
     <snapshotRepository>
-      <id>nexus-snapshots</id>
-      <url>http://ec2-13-232-29-31.ap-south-1.compute.amazonaws.com:8081/repository/nexus-snapshots/</url>
+      <id>nexus123</id>
+      <url>http://ec2-18-221-48-250.us-east-2.compute.amazonaws.com:8081/repository/nexus123/</url>
     </snapshotRepository>
  </distributionManagement>
 </project>
